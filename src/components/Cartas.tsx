@@ -154,8 +154,8 @@ export default function JogoMemoria() {
         onClick={reiniciar}
         className="mt-6 bg-gray-800 hover:bg-gray-900 text-white px-5 py-2 rounded text-sm font-medium"
       >
-        Reiniciar
-       </button>
+        Reiniciar Jogo
+      </button>
     </div>
   );
 }
